@@ -51,9 +51,8 @@ To run the notebook, ensure the following dependencies are installed:
 - Seaborn
 - Scikit-learn
 
-Install the dependencies with:
-```bash
-pip install -r requirements.txt
+---
+
 ## 🔍 Insights, Results & Why This Matters
 
 ### Historical Trends:
